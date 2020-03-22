@@ -6,8 +6,6 @@ export PATH
 #	System Required: CentOS/Debian/Ubuntu
 #	Description: Brook
 #	Version: 1.0.6
-#	Author: Toyo
-#	Blog: https://doub.io/wlzy-jc37/
 #=================================================
 
 sh_ver="1.0.6"
